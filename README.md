@@ -1,0 +1,2 @@
+# admin
+internet detox admin
